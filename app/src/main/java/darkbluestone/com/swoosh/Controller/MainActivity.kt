@@ -1,8 +1,8 @@
-package darkbluestone.com.swoosh
+package darkbluestone.com.swoosh.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import darkbluestone.com.swoosh.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {
